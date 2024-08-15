@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/sthef/OneDrive/Documentos/Curso FPGA/list5/list5.srcs/sources_1/new/list1_5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'list1_5'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/sthef/OneDrive/Documentos/Curso FPGA/list5/list5.srcs/sim_1/new/list1_5_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'list1_5_tb'
