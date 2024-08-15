@@ -1,3 +1,3 @@
 # Curso de FPGA
 
-Reposítório de projetos
+Repositório de projetos
